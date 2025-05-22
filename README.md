@@ -3,7 +3,7 @@
 Readme ini isinya untuk memudahkan kalian mencari materi-materi belajar untuk web developer dan mobile developer. Isinya link-link materi yang bisa diakses langsung biar lebih gampang belajarnya.
 
 > [!NOTE]
-> Buat yang mau nambahin link materi, editnya dari VS Code, pasang ekstensi **Markdown All in One** daftar isinya auto update dan lebih gampang makainya.
+> Buat yang mau konstribusi ke repo ini kalian bisa liat guidelines atau caranya [disini](https://github.com/DECADE-Inc/link-materi-belajar/contributing).
 
 > [!NOTE]
 > Materi-materi disini udah sesuai roadmap.sh dan juga udah berurutan dari atas ke bawah jadi tinggal diikutin aja .
@@ -75,11 +75,6 @@ Materi-materi yang ada di dalam readme ini ditandai dengan:
  
 <br>
 
- Contoh Link: <br>
- Dasar-Dasar HTML (Web Programming Unpas) (**ID**, **FREE**, **COURSE**) <br>
- 🔗 [Link Youtube Playlist](youtube.com/@WebProgrammingUNPAS)
-
-   
 ## Roadmaps 
 
 Roadmaps isinya alur belajar apa yang harus dilalui buat mendalami suatu bidang.
