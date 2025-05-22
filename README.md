@@ -3,11 +3,7 @@
 Readme ini isinya untuk memudahkan kalian mencari materi-materi belajar untuk web developer dan mobile developer. Isinya link-link materi yang bisa diakses langsung biar lebih gampang belajarnya.
 
 > [!NOTE]
-> Buat yang mau konstribusi ke repo ini kalian bisa liat guidelines atau caranya [disini](https://github.com/DECADE-Inc/link-materi-belajar/contributing).
-
-> [!NOTE]
 > Materi-materi disini udah sesuai roadmap.sh dan juga udah berurutan dari atas ke bawah jadi tinggal diikutin aja .
-
 
 - [Link Materi Belajar](#link-materi-belajar)
   - [Tag Materi](#tag-materi)
