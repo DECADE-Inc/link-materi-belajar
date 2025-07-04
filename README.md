@@ -24,7 +24,7 @@ Readme ini isinya untuk memudahkan kalian mencari materi-materi belajar untuk we
       - [HTML Dasar (**ID**, **FREE**, **COURSE**)](#html-dasar-id-free-course)
       - [Belajar HTML 5 (**ID**, **FREE**, **COURSE**)](#belajar-html-5-id-free-course)
       - [CSS Dasar (**ID**, **FREE**, **COURSE**)](#css-dasar-id-free-course)
-      - [CSS Dasar (**ID**, **FREE**, **COURSE**)](#css-dasar-id-free-course-1)
+      - [CSS3 (**ID**, **FREE**, **COURSE**)](#css3-id-free-course)
       - [CSS Layouting (**ID**, **FREE**, **COURSE**)](#css-layouting-id-free-course)
       - [CSS Grid (**ID**, **FREE**, **COURSE**)](#css-grid-id-free-course)
     - [Pemrograman Javascript](#pemrograman-javascript)
@@ -34,6 +34,16 @@ Readme ini isinya untuk memudahkan kalian mencari materi-materi belajar untuk we
       - [1 Jam Belajar Typescript (**ID**, **FREE**, **COURSE**)](#1-jam-belajar-typescript-id-free-course)
       - [JavaScript Dasar Skilvul (**ID**, **FREE**, **COURSE**)](#javascript-dasar-skilvul-id-free-course)
       - [JavaScript Intermediate Skilvul (**ID**, **FREE**, **COURSE**)](#javascript-intermediate-skilvul-id-free-course)
+    - [PHP Dasar](#php-dasar)
+      - [Cara Install XAMPP di PC/Laptop (**ID**, **FREE**, **COURSE**)](#cara-install-xampp-di-pclaptop-id-free-course)
+      - [Belajar PHP untuk PEMULA WPU (**ID**, **FREE**, **COURSE**)](#belajar-php-untuk-pemula-wpu-id-free-course)
+      - [OOP DASAR pada PHP (**ID**, **FREE**, **COURSE**)](#oop-dasar-pada-php-id-free-course)
+      - [Belajar Web Dengan PHP \& Database Untuk Pemula Dari Nol Dea Afrizal (**ID**, **FREE**, **COURSE**)](#belajar-web-dengan-php--database-untuk-pemula-dari-nol-dea-afrizal-id-free-course)
+      - [TUTORIAL PHP DASAR BAHASA INDONESIA Programmer Zaman Now (**ID**, **FREE**, **COURSE**)](#tutorial-php-dasar-bahasa-indonesia-programmer-zaman-now-id-free-course)
+    - [Typescript](#typescript)
+      - [1 JAM BELAJAR TYPESCRIPT (**ID**, **FREE**)](#1-jam-belajar-typescript-id-free)
+      - [Typescript Dasar (**ID**, **FREE**, **COURSE**)](#typescript-dasar-id-free-course)
+      - [Learn Typescript (**EN**, **FREE**, **COURSE**)](#learn-typescript-en-free-course)
     - [Version Control System](#version-control-system)
       - [Git \& Github (**ID**, **FREE**, **COURSE**) ](#git--github-id-free-course-)
       - [Git and GitHub Tutorial for Beginners (**EN**, **FREE**, **COURSE**) ](#git-and-github-tutorial-for-beginners-en-free-course-)
@@ -42,13 +52,33 @@ Readme ini isinya untuk memudahkan kalian mencari materi-materi belajar untuk we
       - [Cobain Fitur Baru TailwindCSS 4.0 🧑‍💻🍃 (**ID**, **FREE**, **COURSE**)](#cobain-fitur-baru-tailwindcss-40--id-free-course)
       - [Tailwind CSS WPU (**ID**, **FREE**, **COURSE**)](#tailwind-css-wpu-id-free-course)
       - [Dokumentasi Tailwind (**EN**)](#dokumentasi-tailwind-en)
-    - [Framework Full Stack](#framework-full-stack)
+    - [Framework Full Stack + Library](#framework-full-stack--library)
+      - [React JS](#react-js)
+        - [Belajar React untuk PEMULA WPU (**ID**, **FREE**, **COURSE**)](#belajar-react-untuk-pemula-wpu-id-free-course)
+        - [Tutorial React Js Bahasa Indonesia VIP CODE STUDIO (**ID**, **FREE**, **COURSE**)](#tutorial-react-js-bahasa-indonesia-vip-code-studio-id-free-course)
+        - [Tutorial React.JS Dasar Bahasa Indonesia PROGRAMMER ZAMAN NOW (**ID**, **FREE**, **COURSE**)](#tutorial-reactjs-dasar-bahasa-indonesia-programmer-zaman-now-id-free-course)
+        - [React Basics Course VoidFnc (**ID**, **FREE**, **COURSE**)](#react-basics-course-voidfnc-id-free-course)
+        - [Learn React SCRIMBA (**EN**, **FREE**, **COURSE**)](#learn-react-scrimba-en-free-course)
+        - [React Dasar Skilvul (**ID**, **FREE**, **COURSE**)](#react-dasar-skilvul-id-free-course)
+      - [NodeJS + ExpressJS](#nodejs--expressjs)
+        - [Belajar NodeJS WPU (**ID**, **FREE**, **COURSE**)](#belajar-nodejs-wpu-id-free-course)
+        - [TUTORIAL NODEJS EXPRESS JS BAHASA INDONESIA PROGRAMMING ZAMAN NOW (**ID**, **FREE**, **COURSE**)](#tutorial-nodejs-express-js-bahasa-indonesia-programming-zaman-now-id-free-course)
       - [Laravel](#laravel)
         - [Roadmap Laravel Developer Pemula - Middle (**ID**, **FREE**, **COURSE**)](#roadmap-laravel-developer-pemula---middle-id-free-course)
         - [Tutorial Laravel 11 (**ID**, **FREE**, **COURSE**)](#tutorial-laravel-11-id-free-course)
         - [Laravel 11 for Beginners (**EN**, **FREE**, **COURSE**)](#laravel-11-for-beginners-en-free-course)
         - [Belajar Laravel 12 Sandhika Galih x Rezza Kurniawan (**ID**, **PAY**, **COURSE**)](#belajar-laravel-12-sandhika-galih-x-rezza-kurniawan-id-pay-course)
         - [Dokumentasi Laravel (**EN**)](#dokumentasi-laravel-en)
+      - [NextJS](#nextjs)
+        - [Next.js 15 Tutorial - Beginner to Advanced Codevolution (**EN**, **FREE**, **COURSE**)](#nextjs-15-tutorial---beginner-to-advanced-codevolution-en-free-course)
+        - [Tutorial Next JS Bahasa Indonesia VIP Code Studio  (**ID**, **FREE**, **COURSE**)](#tutorial-next-js-bahasa-indonesia-vip-code-studio--id-free-course)
+        - [Dokumentasi NextJS(**EN**)](#dokumentasi-nextjsen)
+      - [VueJs](#vuejs)
+        - [Tutorial Vue JS Bahasa Indonesia VIP Code Studio (**ID**, **FREE**, **COURSE**)](#tutorial-vue-js-bahasa-indonesia-vip-code-studio-id-free-course)
+        - [Tutorial Vue.js Dasar Programmer Zaman Now(**ID**, **FREE**, **COURSE**)](#tutorial-vuejs-dasar-programmer-zaman-nowid-free-course)
+      - [Angular](#angular)
+        - [Tutorial Angular baledemy](#tutorial-angular-baledemy)
+        - [Dokumentasi Angular](#dokumentasi-angular)
   - [Pemrograman Mobile](#pemrograman-mobile)
 
 
@@ -123,7 +153,7 @@ Roadmaps isinya alur belajar apa yang harus dilalui buat mendalami suatu bidang.
 #### CSS Dasar (**ID**, **FREE**, **COURSE**)
 🔗 [Link Playlist YouTube](https://www.youtube.com/playlist?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p)
 
-#### CSS Dasar (**ID**, **FREE**, **COURSE**)
+#### CSS3 (**ID**, **FREE**, **COURSE**)
 🔗 [Link Playlist YouTube](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa)
 
 #### CSS Layouting (**ID**, **FREE**, **COURSE**)
@@ -155,6 +185,31 @@ Roadmaps isinya alur belajar apa yang harus dilalui buat mendalami suatu bidang.
 #### JavaScript Intermediate Skilvul (**ID**, **FREE**, **COURSE**)
 🔗 [Link Website](https://skilvul.com/courses/javascript-intermediate/)
 
+
+
+### PHP Dasar
+#### Cara Install XAMPP di PC/Laptop (**ID**, **FREE**, **COURSE**)
+🔗 [Link YouTube](https://www.youtube.com/watch?v=3UN1ZNvqEt8)
+#### Belajar PHP untuk PEMULA WPU (**ID**, **FREE**, **COURSE**)
+🔗 [Link Playlist YouTube](https://www.youtube.com/playlist?list=PLFIM0718LjIUqXfmEIBE3-uzERZPh3vp6)
+#### OOP DASAR pada PHP (**ID**, **FREE**, **COURSE**)
+🔗 [Link Playlist YouTube](https://www.youtube.com/playlist?list=PLFIM0718LjIWvxxll-6wLXrC_16h_Bl_p)
+#### Belajar Web Dengan PHP & Database Untuk Pemula Dari Nol Dea Afrizal (**ID**, **FREE**, **COURSE**)
+🔗 [Link Playlist YouTube](https://www.youtube.com/watch?v=Ak6VTSekGP4)
+#### TUTORIAL PHP DASAR BAHASA INDONESIA Programmer Zaman Now (**ID**, **FREE**, **COURSE**)
+🔗 [Link YouTube](https://www.youtube.com/watch?v=TaBWhb5SPfc)
+
+
+
+
+### Typescript
+
+#### 1 JAM BELAJAR TYPESCRIPT (**ID**, **FREE**)
+🔗 [Link YouTube](https://www.youtube.com/watch?v=ugOonjYVxYM&t=1s)
+#### Typescript Dasar (**ID**, **FREE**, **COURSE**)
+🔗 [Link Website](https://skilvul.com/courses/typescript-dasar/)
+#### Learn Typescript (**EN**, **FREE**, **COURSE**)
+🔗 [Link Website](https://scrimba.com/learn-typescript-c03c)
 
 
 <br>
@@ -191,11 +246,40 @@ Roadmaps isinya alur belajar apa yang harus dilalui buat mendalami suatu bidang.
 
 > [!TIP]
 > Biar cepat, gak perlu nonton video, langsung coba-coba aja dari dokumentasinya
-
-
-### Framework Full Stack
+> 
+### Framework Full Stack + Library
 > [!NOTE]
 > Buat projek-projek web yang ada di decade pakainya **Laravel**, tapi kalau mau belajar framework lain boleh-boleh aja gak ada yang ngelarang.
+
+#### React JS
+> [!NOTE]
+> React ini library belum framework fullstack, pelajari ini kalau mau pakai framework fullstack berbasis javascript.
+
+##### Belajar React untuk PEMULA WPU (**ID**, **FREE**, **COURSE**)
+🔗 [Link Playlist YouTube](https://www.youtube.com/playlist?list=PLFIM0718LjIUu3X2zYNqomEWs3sYd-fV1)
+##### Tutorial React Js Bahasa Indonesia VIP CODE STUDIO (**ID**, **FREE**, **COURSE**)
+🔗 [Link Playlist YouTube](https://www.youtube.com/playlist?list=PLmF_zPV9ZcP346sttD4Vs2VROLlIp5kPz)
+##### Tutorial React.JS Dasar Bahasa Indonesia PROGRAMMER ZAMAN NOW (**ID**, **FREE**, **COURSE**)
+🔗 [Link Playlist YouTube](https://www.youtube.com/watch?v=yOIO5h3ENIw)
+
+##### React Basics Course VoidFnc (**ID**, **FREE**, **COURSE**)
+🔗 [Link YouTube](https://www.youtube.com/playlist?list=PLB9XAA8yZRRi58-ToaNDEr9M4E_kiyod1)
+
+##### Learn React SCRIMBA (**EN**, **FREE**, **COURSE**)
+🔗 [Link Website](https://scrimba.com/learn-react-c0e)
+##### React Dasar Skilvul (**ID**, **FREE**, **COURSE**)
+🔗 [Link Website](https://skilvul.com/courses/react-dasar/)
+
+
+#### NodeJS + ExpressJS
+> [!NOTE]
+> NodeJS ini bisa bikin kita jalanin javascript dari browser, jadi kita bisa bikin API sendiri pakai bahasa jawascript.
+##### Belajar NodeJS WPU (**ID**, **FREE**, **COURSE**)
+🔗 [Link Playlist YouTube](https://www.youtube.com/playlist?list=PLFIM0718LjIW-XBdVOerYgKegBtD6rSfD)
+
+##### TUTORIAL NODEJS EXPRESS JS BAHASA INDONESIA PROGRAMMING ZAMAN NOW (**ID**, **FREE**, **COURSE**)
+🔗 [Link YouTube](https://www.youtube.com/watch?v=L7-u0CHm1GI)
+
 
 #### Laravel
 
@@ -204,6 +288,8 @@ Roadmaps isinya alur belajar apa yang harus dilalui buat mendalami suatu bidang.
 
 > [!NOTE]
 > Video diatas opsional boleh ditonton atau gak, video itu lebih ke gambaran apa aja yang dipelajari jadi bisa diskip.
+
+
 
 ##### Tutorial Laravel 11 (**ID**, **FREE**, **COURSE**)
 🔗 [Link Playlist YouTube](https://www.youtube.com/playlist?list=PLFIM0718LjIW1Xb7cVj7LdAr32ATDQMdr)
@@ -220,11 +306,33 @@ Roadmaps isinya alur belajar apa yang harus dilalui buat mendalami suatu bidang.
 🔗 [Link Website](https://laravel.com/docs)
 
 
-> [!TIP]
-> Sangat disarankan untuk belajar dari dokumentasi laravelnya langsung
+
+#### NextJS
+> [!NOTE]
+> Pelajari nextjs kalau misalnya sudah punya pemahaman vanilla Javascript dan library react yang kuat.
+##### Next.js 15 Tutorial - Beginner to Advanced Codevolution (**EN**, **FREE**, **COURSE**)
+🔗 [Link Playlist YouTube](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY)
+
+##### Tutorial Next JS Bahasa Indonesia VIP Code Studio  (**ID**, **FREE**, **COURSE**)
+🔗 [Link Playlist YouTube](https://www.youtube.com/playlist?list=PLmF_zPV9ZcP2aYRuoEsMla5gqNjxP-V20)
+
+##### Dokumentasi NextJS(**EN**)
+🔗 [Link Website](https://nextjs.org/docs)
+
+#### VueJs
+##### Tutorial Vue JS Bahasa Indonesia VIP Code Studio (**ID**, **FREE**, **COURSE**)
+🔗 [Link Playlist YouTube](https://www.youtube.com/playlist?list=PLmF_zPV9ZcP2eXsQCfGL3wTSOEpmhqgS_)
+##### Tutorial Vue.js Dasar Programmer Zaman Now(**ID**, **FREE**, **COURSE**)
+🔗 [Link YouTube](https://www.youtube.com/watch?v=G_IjpeXxAkE)
+
+#### Angular
+##### Tutorial Angular baledemy
+🔗 [Link YouTube](https://www.youtube.com/playlist?list=PL9At9z2rvOC9eOWtl_-8vVm5jtc_O8ytu)
+##### Dokumentasi Angular
+🔗 [Link Website](https://angular.dev/overview)
+
 
 ## Pemrograman Mobile
-
 **Segera Datang.** <br>
 **Coming Soon**
 
